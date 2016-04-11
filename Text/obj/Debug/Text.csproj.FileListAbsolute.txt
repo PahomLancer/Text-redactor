@@ -1,0 +1,10 @@
+c:\users\mozgg\documents\visual studio 2013\Projects\Text\Text\bin\Debug\Text.exe.config
+c:\users\mozgg\documents\visual studio 2013\Projects\Text\Text\bin\Debug\Text.exe
+c:\users\mozgg\documents\visual studio 2013\Projects\Text\Text\bin\Debug\Text.pdb
+c:\users\mozgg\documents\visual studio 2013\Projects\Text\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+c:\users\mozgg\documents\visual studio 2013\Projects\Text\Text\obj\Debug\Text.Form1.resources
+c:\users\mozgg\documents\visual studio 2013\Projects\Text\Text\obj\Debug\Text.Properties.Resources.resources
+c:\users\mozgg\documents\visual studio 2013\Projects\Text\Text\obj\Debug\Text.csproj.GenerateResource.Cache
+c:\users\mozgg\documents\visual studio 2013\Projects\Text\Text\obj\Debug\Text.exe
+c:\users\mozgg\documents\visual studio 2013\Projects\Text\Text\obj\Debug\Text.pdb
+c:\users\mozgg\documents\visual studio 2013\Projects\Text\Text\obj\Debug\Text.Help.resources
